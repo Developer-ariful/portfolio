@@ -32,12 +32,15 @@ section{
    scroll-padding-bottom:100px  ;
 }
 .link-bottan{
-     text-decoration: none;
-     background-image: linear-gradient(45 deg light salmon tomato);
+    text-decoration: none;
+    background-color: red;
     padding: 10px 20px;
     border-radius: 5%;
-    color: rgb(59, 14, 240);
+    color: white;
     font-weight: bold;
+    font-size: 18px;
+ 
+    
 }
 .dream-area{
     background-image: url(poto/dream-bg.png);
@@ -67,4 +70,12 @@ footer{
     text-align: center;
     font-size: 12px ;
 }
+.half-width img{
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
 
